@@ -1,0 +1,11 @@
+.env*
+!.env.example
+node_modules
+.next
+artifacts
+tests
+scripts
+*.tsbuildinfo
+.git
+AGENTS.md
+product.md
