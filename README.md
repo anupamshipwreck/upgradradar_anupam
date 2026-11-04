@@ -2,7 +2,7 @@
 
 An AI-assisted competitive intelligence prototype for upGrad's strategy, category and marketing teams. It addresses the slow, fragmented process of comparing competitors' pricing, programs, positioning and marketing across public sources.
 
-**Live prototype:** [upgrad-radar.vercel.app](https://upgrad-radar.vercel.app/)
+**Live prototype:** [upgrad-radar.vercel.app](https://upgrad-radar.vercel.app/) · **Demo (4:20):** [Watch/download recording](https://github.com/anupamshipwreck/upgradradar_anupam/releases/download/submission-demo/demo.mp4)
 
 Select **Data Science & Analytics** or **Executive / General Management** to research upGrad, Great Learning, Simplilearn and Emeritus. Review cited comparisons, source quotations, verification statuses and unresolved discrepancies; export Markdown or JSON. Additional competitor discovery requires the user to confirm an official program page.
 
@@ -40,7 +40,7 @@ Automated tests use controlled responses and need no API key. Live research requ
 
 ## Assignment deliverables
 
-**Status: Parts 1–4 and the AI process log are included; the recorded demo is pending.** All five supplied PDFs are preserved unchanged.
+**Status: all assignment documents and the recorded demo are included.** The five supplied PDFs and original recording are preserved unchanged.
 
 | Deliverable | Supplied document |
 | --- | --- |
@@ -49,9 +49,9 @@ Automated tests use controlled responses and need no API key. Live research requ
 | Part 3 — Prototype and evaluation | [PDF](docs/part3-prototype-evaluation.pdf) |
 | Part 4 — Recommendation | [PDF](docs/part4-recommendation.pdf) |
 | AI process log | [PDF with conversation links](docs/ai-process-log.pdf) |
-| Recorded walkthrough | Pending: `demo/demo.mp4` or a video link |
+| Recorded walkthrough | [MP4, 4:20](https://github.com/anupamshipwreck/upgradradar_anupam/releases/download/submission-demo/demo.mp4) · [recording details](demo/recording.md) |
 
-Supporting evidence: [technical evaluation](docs/part3-evaluation.md) and [61-check production results](docs/evaluation-results.json). `src/` contains the application, `tests/` automated checks, `scripts/` live diagnostics, `docs/` deliverables and `demo/` the future recording.
+Supporting evidence: [technical evaluation](docs/part3-evaluation.md) and [61-check production results](docs/evaluation-results.json). `src/` contains the application, `tests/` automated checks, `scripts/` live diagnostics, `docs/` deliverables and `demo/` the recording link. The video is hosted as a GitHub release asset to keep code clones small.
 
 ## Assumptions and limitations
 
