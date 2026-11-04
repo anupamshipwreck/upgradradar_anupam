@@ -40,15 +40,15 @@ Automated tests use controlled responses and need no API key. Live research requ
 
 ## Assignment deliverables
 
-**Status: awaiting final documents/confirmation and a recorded demo.** The supplied combined PDF is preserved unchanged; its AI process log still contains placeholder session links.
+**Status: Parts 1–4 and the AI process log are included; the recorded demo is pending.** All five supplied PDFs are preserved unchanged.
 
 | Deliverable | Supplied document |
 | --- | --- |
-| Part 1 — Problem framing | [Draft, pp. 1–2](docs/assignment-deliverables.pdf#page=1) |
-| Part 2 — Competitive research | [Draft, pp. 3–6](docs/assignment-deliverables.pdf#page=3) |
-| Part 3 — Prototype and evaluation | [Draft, pp. 7–9](docs/assignment-deliverables.pdf#page=7) |
-| Part 4 — Recommendation | [Draft, pp. 10–11](docs/assignment-deliverables.pdf#page=10) |
-| AI process log | [Draft, pp. 12–14; session links pending](docs/assignment-deliverables.pdf#page=12) |
+| Part 1 — Problem framing | [PDF](docs/part1-problem-framing.pdf) |
+| Part 2 — Competitive research | [PDF](docs/part2-research.pdf) |
+| Part 3 — Prototype and evaluation | [PDF](docs/part3-prototype-evaluation.pdf) |
+| Part 4 — Recommendation | [PDF](docs/part4-recommendation.pdf) |
+| AI process log | [PDF with conversation links](docs/ai-process-log.pdf) |
 | Recorded walkthrough | Pending: `demo/demo.mp4` or a video link |
 
 Supporting evidence: [technical evaluation](docs/part3-evaluation.md) and [61-check production results](docs/evaluation-results.json). `src/` contains the application, `tests/` automated checks, `scripts/` live diagnostics, `docs/` deliverables and `demo/` the future recording.
